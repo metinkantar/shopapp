@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <meta name="description" content="MeKaShop Açıklama İçeriği" />
           <link rel="icon" href="/favicon.ico" />
-          <title>MeKaShop App</title>
+          <title>Shop App</title>
           <link
             rel="styleheet"
             href="https://fonts.googleapis.com/icon?family=Material+Icons"
